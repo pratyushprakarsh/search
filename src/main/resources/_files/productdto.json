@@ -1,0 +1,27 @@
+{
+  "id": "12404",
+  "product_id": "12404",
+  "sellerId": "878616",
+  "title": "Voltaaaas 1.5 Ton Adjustable Inverter 5 Star Copper (2019 Range) 185V ADS (R32) Split AC (White)",
+  "pageTitle": "Voltas 1.5 Ton Adjustable Inverter.",
+  "description": "Stay at ease even when the mercury hits the roof by opting for this Voltas Inverter Adjustable Split AC. It has a capacity of 1.5 tons, hence it can cover a large area, while the 5- star energy rating helps you to reduce electricity costs significantly. It ensures stabilizer free operation so that it stays protected against voltage fluctuations. The 100 percent copper make ensures optimum performance as well as energy efficiency. (Star rating of model is as per 2018/2019 BEE rating, manufacturing can be of 2019 or before)",
+  "manufacturer": "Anmol",
+  "isLowQuantity": false,
+  "isSoldOut": false,
+  "isBackorder": false,
+  "metafields": [
+    {
+      "key": "Capacity",
+      "value": "1.5 ton"
+    },
+    {
+      "key": "Rating",
+      "value": "Inverter 5 Star"
+    }
+  ],
+  "requiresShipping": true,
+  "isVisible": true,
+  "workflow": {
+    "status": "new"
+  }
+}

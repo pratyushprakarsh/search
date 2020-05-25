@@ -1,9 +1,8 @@
-package com.pratyush.search.elasticsearch.entity;
-
+package com.pratyush.search.dto;
 import lombok.Data;
 
 @Data
-public class MetaField {
+public class MetaFieldDto {
 
     private String key;
     private String value;
